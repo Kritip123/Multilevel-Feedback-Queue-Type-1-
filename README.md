@@ -5,7 +5,7 @@ Here the concept is shown using 4 Queues.
 Queue 1, Queue 2 and Queue 3 follows Round Robin algorithm and Queue 4 follows FCFS.
 The algorithm is strictly followed.
 
-#Points to be Noted
+# Points to be Noted
 
 It does not include the solution of the problem of starvation.
 The time slice are 2, 4 and 6 respectively.
